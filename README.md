@@ -40,5 +40,5 @@ A pasta relatorio contém o arquivo [relatório insights.pdf](https://github.com
 
 <p align="justify">O arquivo relatório insights.pdf contém um relatório com os principais insights encontrados durante a realização das análises e as resposta as perguntas realizadas. O relatório possui uma recomendação de pesquisa futuras a serem realizadas na base de dados para melhoria dos resultados das vendas.</p>
 
-## Autores
+## Autor
 - [Frederico S N Cota](https://github.com/FredericoSander)
