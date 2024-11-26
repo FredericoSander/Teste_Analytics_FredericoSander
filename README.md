@@ -36,7 +36,7 @@ A pasta base de dados contém o arquivo [dataclean.csv](https://github.com/Frede
 O arquivo dataclean.csv criado pelo script.py será a base de dados utilizada na realização das consultas e análise, está base, já está tratada e sem valores duplicados ou nulos.
 
 ## Relatório
-A pasta base de dados contém o arquivo [relatório insights.pdf](https://github.com/FredericoSander/Teste_Analytics_FredericoSander/blob/main/Relatorio/relat%C3%B3rio%20insights.pdf)
+A pasta relatorio contém o arquivo [relatório insights.pdf](https://github.com/FredericoSander/Teste_Analytics_FredericoSander/blob/main/Relatorio/relat%C3%B3rio%20insights.pdf)
 
 <p align="justify">O arquivo relatório insights.pdf contém um relatório com os principais insights encontrados durante a realização das análises e as resposta as perguntas realizadas. O relatório possui uma recomendação de pesquisa futuras a serem realizadas na base de dados para melhoria dos resultados das vendas.</p>
 
