@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-dataclean = "F:\Git\Teste_Analytics_FredericoSander/dataclean.csv"
+dataclean = "https://github.com/FredericoSander/Teste_Analytics_FredericoSander/blob/main/Base%20de%20dados/dataclean.csv"
 
 df = pd.read_csv(dataclean)
 
@@ -19,7 +19,7 @@ Agrupar_vendas_por_produto = vendas_por_produto.sort_values('Valor total', ascen
 print(Agrupar_vendas_por_produto)
 
 print()
-print('Agrupando dados por Produtos')
+print('Agrupando dados por produtos')
 Agrupar_por_quantidade = df.groupby(['Produto']).agg({'Quantidade': 'sum'})
 Agrupar = Agrupar_por_quantidade.sort_values('Quantidade', ascending=False)
 print(Agrupar)
