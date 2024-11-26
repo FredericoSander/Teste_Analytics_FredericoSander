@@ -2,12 +2,12 @@
 
 ## Estrutura do Repositório
 
-Este repositório está divido e quatro pastas denomidadas, Python, SQL, Base de Dados e Relatório, que contém os arquivos criados na elaboração do projeto Teste Analytics.
+<p align="justify">Este repositório está divido e quatro pastas denomidadas, Python, SQL, Base de Dados e Relatório, que contém os arquivos criados na elaboração do projeto Teste Analytics.
 
 - Python: Nesta pasta, estão arquivados os scripts criados em python, contendo os códigos de criação do Dataframe, análise exploratória e análise de vendas.
 - SQL: Nesta pasta está armazenado o script das consultas em SQL.
 - Base de dados: Nesta pasta está armazenado o arquivo datacleancsv.
-- Relatório: Nesta pasta está armazenado o relatório de insights
+- Relatório: Nesta pasta está armazenado o relatório de insights</P>
 
 ## Python
 A pasta python contém os seguintes arquivos:
@@ -33,7 +33,7 @@ A pasta SQL contém o arquivo [consultassql](https://github.com/FredericoSander/
 ## Base de dados
 A pasta base de dados contém o arquivo [dataclean.csv](https://github.com/FredericoSander/Teste_Analytics_FredericoSander/blob/main/Base%20de%20dados/dataclean.csv)
 
-O arquivo dataclean.csv criado pelo script.py será a base de dados utilizada na realização das consultas e análise, está base, já está tratada e sem valores duplicados ou nulos.
+<p align="justify">O arquivo dataclean.csv criado pelo script.py será a base de dados utilizada na realização das consultas e análise, está base, já está tratada e sem valores duplicados ou nulos.</p>
 
 ## Relatório
 A pasta relatorio contém o arquivo [relatório insights.pdf](https://github.com/FredericoSander/Teste_Analytics_FredericoSander/blob/main/Relatorio/relat%C3%B3rio%20insights.pdf)
