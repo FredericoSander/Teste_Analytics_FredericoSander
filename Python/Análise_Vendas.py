@@ -13,7 +13,7 @@ print(df.info())
 
 print()
 print(f'Calcular o total de vendas por produto.')
-df['Valor total'] = df['Quantidade']*df['Preço'] # Cria uma nova coluna no dataframe chamada valor vendido
+df['Valor total'] = df['Quantidade']*df['Preço']    
 vendas_por_produto = df.groupby(['Produto']).agg({'Valor total': 'sum'})
 Agrupar_vendas_por_produto = vendas_por_produto.sort_values('Valor total', ascending=False)
 print(Agrupar_vendas_por_produto)
